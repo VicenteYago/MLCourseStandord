@@ -1,0 +1,9 @@
+\contentsline {section}{\numberline {1}Multivariate linear regression}{3}{section.1}
+\contentsline {subsection}{\numberline {1.1}Multiple features}{3}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Gradient descent for multiple features}{3}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Feature scaling}{4}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}Learning rate}{5}{subsection.1.4}
+\contentsline {subsection}{\numberline {1.5}Features and polynomial regression}{6}{subsection.1.5}
+\contentsline {section}{\numberline {2}Computing parameters analytically}{7}{section.2}
+\contentsline {subsection}{\numberline {2.1}Normal equation}{7}{subsection.2.1}
+\contentsline {subsubsection}{\numberline {2.1.1}Normal equation noninvertibility}{8}{subsubsection.2.1.1}

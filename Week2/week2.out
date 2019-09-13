@@ -1,0 +1,9 @@
+\BOOKMARK [1][-]{section.1}{Multivariate\040linear\040regression}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Multiple\040features}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Gradient\040descent\040for\040multiple\040features}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{Feature\040scaling}{section.1}% 4
+\BOOKMARK [2][-]{subsection.1.4}{Learning\040rate}{section.1}% 5
+\BOOKMARK [2][-]{subsection.1.5}{Features\040and\040polynomial\040regression}{section.1}% 6
+\BOOKMARK [1][-]{section.2}{Computing\040parameters\040analytically}{}% 7
+\BOOKMARK [2][-]{subsection.2.1}{Normal\040equation}{section.2}% 8
+\BOOKMARK [3][-]{subsubsection.2.1.1}{Normal\040equation\040noninvertibility}{subsection.2.1}% 9

@@ -1,0 +1,930 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.11.24)  12 APR 2019 12:16
+entering extended mode
+ \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**week3.tex
+(./week3.tex
+LaTeX2e <2018-04-01> patch level 2
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box26
+\UL@hyphenbox=\box27
+\UL@skip=\skip43
+\UL@hook=\toks14
+\UL@height=\dimen103
+\UL@pe=\count88
+\UL@pixel=\dimen104
+\ULC@box=\box28
+Package: ulem 2012/05/18
+\ULdepth=\dimen105
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/04/06 v1.3b Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks17
+\verbatim@line=\toks18
+\verbatim@in@stream=\read1
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen106
+\Hy@linkcounter=\count89
+\Hy@pagecounter=\count90
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count91
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4509.
+Package hyperref Info: Link nesting OFF on input line 4514.
+Package hyperref Info: Hyper index ON on input line 4517.
+Package hyperref Info: Plain pages OFF on input line 4524.
+Package hyperref Info: Backreferencing OFF on input line 4529.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4762.
+\c@Hy@tempcnt=\count92
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5115.
+\XeTeXLinkMargin=\dimen107
+\Fld@menulength=\count93
+\Field@Width=\dimen108
+\Fld@charsize=\dimen109
+Package hyperref Info: Hyper figures OFF on input line 6369.
+Package hyperref Info: Link nesting OFF on input line 6374.
+Package hyperref Info: Hyper index ON on input line 6377.
+Package hyperref Info: backreferencing OFF on input line 6384.
+Package hyperref Info: Link coloring OFF on input line 6389.
+Package hyperref Info: Link coloring with OCG OFF on input line 6394.
+Package hyperref Info: PDF/A mode OFF on input line 6399.
+LaTeX Info: Redefining \ref on input line 6439.
+LaTeX Info: Redefining \pageref on input line 6443.
+\Hy@abspage=\count94
+\c@Item=\count95
+\c@Hfootnote=\count96
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2018/02/06 v6.86b Hyperref driver for pdfTeX
+\Fld@listcount=\count97
+\c@bookmark@seq@number=\count98
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip44
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2018/03/24 v5.7 Page Geometry
+\Gm@cnth=\count99
+\Gm@cntv=\count100
+\c@Gm@tempcnt=\count101
+\Gm@bindingoffset=\dimen110
+\Gm@wd@mp=\dimen111
+\Gm@odd@mp=\dimen112
+\Gm@even@mp=\dimen113
+\Gm@layoutwidth=\dimen114
+\Gm@layoutheight=\dimen115
+\Gm@layouthoffset=\dimen116
+\Gm@layoutvoffset=\dimen117
+\Gm@dimlist=\toks20
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count102
+\lst@gtempboxa=\box29
+\lst@token=\toks21
+\lst@length=\count103
+\lst@currlwidth=\dimen118
+\lst@column=\count104
+\lst@pos=\count105
+\lst@lostspace=\dimen119
+\lst@width=\dimen120
+\lst@newlines=\count106
+\lst@lineno=\count107
+\lst@maxwidth=\dimen121
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count108
+\lst@skipnumbers=\count109
+\lst@framebox=\box30
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/tools/array.sty
+Package: array 2018/04/07 v2.4g Tabular extension package (FMi)
+\col@sep=\dimen122
+\ar@mcellbox=\box31
+\extrarowheight=\dimen123
+\NC@list=\toks22
+\extratabsurround=\skip45
+\backup@length=\skip46
+\ar@cellbox=\box32
+)
+\everycr=\toks23
+\minrowclearance=\skip47
+)
+LaTeX Info: Redefining \color on input line 709.
+\rownum=\count110
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip48
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks24
+\ex@=\dimen124
+))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen125
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count111
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count112
+\leftroot@=\count113
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count114
+\DOTSCASE@=\count115
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box33
+\strutbox@=\box34
+\big@size=\dimen126
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count116
+\c@MaxMatrixCols=\count117
+\dotsspace@=\muskip11
+\c@parentequation=\count118
+\dspbrk@lvl=\count119
+\tag@help=\toks25
+\row@=\count120
+\column@=\count121
+\maxfields@=\count122
+\andhelp@=\toks26
+\eqnshift@=\dimen127
+\alignsep@=\dimen128
+\tagshift@=\dimen129
+\tagwidth@=\dimen130
+\totwidth@=\dimen131
+\lineht@=\dimen132
+\@envbody=\toks27
+\multlinegap=\skip49
+\multlinetaggap=\skip50
+\mathdisplay@stack=\toks28
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+)
+\Gin@req@height=\dimen133
+\Gin@req@width=\dimen134
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count123
+\float@exts=\toks29
+\float@box=\box35
+\@float@everytoks=\toks30
+\@floatcapt=\box36
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen135
+\captionmargin@=\dimen136
+\captionwidth=\dimen137
+\caption@tempdima=\dimen138
+\caption@indent=\dimen139
+\caption@parindent=\dimen140
+\caption@hangindent=\dimen141
+)
+\c@ContinuedFloat=\count124
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+)
+\c@subfigure=\count125
+\c@subtable=\count126
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+\multirow@colwidth=\skip51
+\multirow@cntb=\count127
+\multirow@dima=\skip52
+\bigstrutjot=\dimen142
+)
+
+LaTeX Warning: Unused global option(s):
+    [A4].
+
+(./week3.aux)
+\openout1 = `week3.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+\AtBeginShipoutBox=\box37
+Package hyperref Info: Link coloring OFF on input line 33.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count128
+)
+LaTeX Info: Redefining \ref on input line 33.
+LaTeX Info: Redefining \pageref on input line 33.
+LaTeX Info: Redefining \nameref on input line 33.
+
+(./week3.out) (./week3.out)
+\@outlinefile=\write3
+\openout3 = `week3.out'.
+
+
+(/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count129
+\scratchdimen=\dimen143
+\scratchbox=\box38
+\nofMPsegments=\count130
+\nofMParguments=\count131
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count132
+\MPscratchDim=\dimen144
+\MPnumerator=\count133
+\makeMPintoPDFobject=\count134
+\everyMPtoPDFconversion=\toks32
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 472.03123pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 652.70622pt, 71.13188pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=472.03123pt
+* \textheight=652.70622pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\c@lstlisting=\count135
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+[1
+
+{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+(./week3.toc)
+\tf@toc=\write4
+\openout4 = `week3.toc'.
+
+ [2]
+<./Imagenes/class1.jpeg, id=112, 1708.3825pt x 387.4475pt>
+File: ./Imagenes/class1.jpeg Graphic file (type jpg)
+<use ./Imagenes/class1.jpeg>
+Package pdftex.def Info: ./Imagenes/class1.jpeg  used on input line 66.
+(pdftex.def)             Requested size: 472.03123pt x 107.04794pt.
+<./Imagenes/class2.jpeg, id=113, 1734.48pt x 1084.05pt>
+File: ./Imagenes/class2.jpeg Graphic file (type jpg)
+<use ./Imagenes/class2.jpeg>
+Package pdftex.def Info: ./Imagenes/class2.jpeg  used on input line 71.
+(pdftex.def)             Requested size: 472.03123pt x 295.01318pt.
+<./Imagenes/testClass.jpeg, id=114, 1310.8975pt x 718.685pt>
+File: ./Imagenes/testClass.jpeg Graphic file (type jpg)
+<use ./Imagenes/testClass.jpeg>
+Package pdftex.def Info: ./Imagenes/testClass.jpeg  used on input line 76.
+(pdftex.def)             Requested size: 472.03123pt x 258.78123pt.
+ [3 <./Imagenes/class1.jpeg> <./Imagenes/class2.jpeg>]
+[4 <./Imagenes/testClass.jpeg>]
+<./Imagenes/hipoRep1.jpeg, id=126, 1571.8725pt x 576.1525pt>
+File: ./Imagenes/hipoRep1.jpeg Graphic file (type jpg)
+<use ./Imagenes/hipoRep1.jpeg>
+Package pdftex.def Info: ./Imagenes/hipoRep1.jpeg  used on input line 82.
+(pdftex.def)             Requested size: 472.03123pt x 173.01411pt.
+<./Imagenes/class3.jpeg, id=127, 1810.765pt x 1015.795pt>
+File: ./Imagenes/class3.jpeg Graphic file (type jpg)
+<use ./Imagenes/class3.jpeg>
+Package pdftex.def Info: ./Imagenes/class3.jpeg  used on input line 87.
+(pdftex.def)             Requested size: 472.03123pt x 264.79796pt.
+<./Imagenes/hipoRep2.jpeg, id=128, 1549.79pt x 337.26pt>
+File: ./Imagenes/hipoRep2.jpeg Graphic file (type jpg)
+<use ./Imagenes/hipoRep2.jpeg>
+Package pdftex.def Info: ./Imagenes/hipoRep2.jpeg  used on input line 93.
+(pdftex.def)             Requested size: 472.03123pt x 102.71748pt.
+<./Imagenes/hipoRep3.jpeg, id=129, 1545.775pt x 401.5pt>
+File: ./Imagenes/hipoRep3.jpeg Graphic file (type jpg)
+<use ./Imagenes/hipoRep3.jpeg>
+Package pdftex.def Info: ./Imagenes/hipoRep3.jpeg  used on input line 98.
+(pdftex.def)             Requested size: 472.03123pt x 122.60129pt.
+ [5 <./Imagenes/hipoRep1.jpeg> <./Imagenes/class3.jpeg> <./Imagenes/hipoRep2.jp
+eg>]
+<./Imagenes/hipoRep4.jpeg, id=137, 1854.93pt x 1043.9pt>
+File: ./Imagenes/hipoRep4.jpeg Graphic file (type jpg)
+<use ./Imagenes/hipoRep4.jpeg>
+Package pdftex.def Info: ./Imagenes/hipoRep4.jpeg  used on input line 103.
+(pdftex.def)             Requested size: 472.03123pt x 265.64143pt.
+<./Imagenes/testHipo.jpeg, id=138, 1076.02pt x 666.49pt>
+File: ./Imagenes/testHipo.jpeg Graphic file (type jpg)
+<use ./Imagenes/testHipo.jpeg>
+Package pdftex.def Info: ./Imagenes/testHipo.jpeg  used on input line 107.
+(pdftex.def)             Requested size: 472.03123pt x 292.3819pt.
+ [6 <./Imagenes/hipoRep3.jpeg> <./Imagenes/hipoRep4.jpeg>] [7 <./Imagenes/testH
+ipo.jpeg>]
+<./Imagenes/decBound1.jpeg, id=151, 1561.835pt x 744.7825pt>
+File: ./Imagenes/decBound1.jpeg Graphic file (type jpg)
+<use ./Imagenes/decBound1.jpeg>
+Package pdftex.def Info: ./Imagenes/decBound1.jpeg  used on input line 114.
+(pdftex.def)             Requested size: 472.03123pt x 225.09569pt.
+<./Imagenes/decBound2.jpeg, id=152, 1563.8425pt x 566.115pt>
+File: ./Imagenes/decBound2.jpeg Graphic file (type jpg)
+<use ./Imagenes/decBound2.jpeg>
+Package pdftex.def Info: ./Imagenes/decBound2.jpeg  used on input line 119.
+(pdftex.def)             Requested size: 472.03123pt x 170.87239pt.
+<./Imagenes/decBound3.jpeg, id=153, 1541.76pt x 648.4225pt>
+File: ./Imagenes/decBound3.jpeg Graphic file (type jpg)
+<use ./Imagenes/decBound3.jpeg>
+Package pdftex.def Info: ./Imagenes/decBound3.jpeg  used on input line 124.
+(pdftex.def)             Requested size: 424.82523pt x 178.66797pt.
+<./Imagenes/decBound4.jpeg, id=154, 1603.9925pt x 919.435pt>
+File: ./Imagenes/decBound4.jpeg Graphic file (type jpg)
+<use ./Imagenes/decBound4.jpeg>
+Package pdftex.def Info: ./Imagenes/decBound4.jpeg  used on input line 129.
+(pdftex.def)             Requested size: 472.03123pt x 270.5716pt.
+ [8 <./Imagenes/decBound1.jpeg> <./Imagenes/decBound2.jpeg> <./Imagenes/decBoun
+d3.jpeg>]
+<./Imagenes/decBound5.jpeg, id=163, 1648.1575pt x 899.36pt>
+File: ./Imagenes/decBound5.jpeg Graphic file (type jpg)
+<use ./Imagenes/decBound5.jpeg>
+Package pdftex.def Info: ./Imagenes/decBound5.jpeg  used on input line 134.
+(pdftex.def)             Requested size: 472.03123pt x 257.56906pt.
+<./Imagenes/testDecbound.jpeg, id=164, 1090.0725pt x 772.8875pt>
+File: ./Imagenes/testDecbound.jpeg Graphic file (type jpg)
+<use ./Imagenes/testDecbound.jpeg>
+Package pdftex.def Info: ./Imagenes/testDecbound.jpeg  used on input line 138.
+(pdftex.def)             Requested size: 472.03123pt x 334.682pt.
+ [9 <./Imagenes/decBound4.jpeg> <./Imagenes/decBound5.jpeg>] [10 <./Imagenes/te
+stDecbound.jpeg>]
+<./Imagenes/costFunc1.jpeg, id=176, 1563.8425pt x 435.6275pt>
+File: ./Imagenes/costFunc1.jpeg Graphic file (type jpg)
+<use ./Imagenes/costFunc1.jpeg>
+Package pdftex.def Info: ./Imagenes/costFunc1.jpeg  used on input line 148.
+(pdftex.def)             Requested size: 472.03123pt x 131.48691pt.
+<./Imagenes/costFunc2.jpeg, id=177, 764.8575pt x 596.2275pt>
+File: ./Imagenes/costFunc2.jpeg Graphic file (type jpg)
+<use ./Imagenes/costFunc2.jpeg>
+Package pdftex.def Info: ./Imagenes/costFunc2.jpeg  used on input line 154.
+(pdftex.def)             Requested size: 236.01561pt x 183.98253pt.
+<./Imagenes/costFunc3.jpeg, id=178, 883.3pt x 652.4375pt>
+File: ./Imagenes/costFunc3.jpeg Graphic file (type jpg)
+<use ./Imagenes/costFunc3.jpeg>
+Package pdftex.def Info: ./Imagenes/costFunc3.jpeg  used on input line 157.
+(pdftex.def)             Requested size: 247.8135pt x 183.03964pt.
+
+Overfull \hbox (11.79788pt too wide) in paragraph at lines 153--159
+[]$[]$ $[]$ 
+ []
+
+<./Imagenes/costFunc4.jpeg, id=179, 1553.805pt x 481.8pt>
+File: ./Imagenes/costFunc4.jpeg Graphic file (type jpg)
+<use ./Imagenes/costFunc4.jpeg>
+Package pdftex.def Info: ./Imagenes/costFunc4.jpeg  used on input line 163.
+(pdftex.def)             Requested size: 472.03123pt x 146.36432pt.
+<./Imagenes/costFunc5.jpeg, id=180, 1710.39pt x 945.5325pt>
+File: ./Imagenes/costFunc5.jpeg Graphic file (type jpg)
+<use ./Imagenes/costFunc5.jpeg>
+Package pdftex.def Info: ./Imagenes/costFunc5.jpeg  used on input line 168.
+(pdftex.def)             Requested size: 472.03123pt x 260.9384pt.
+[11 <./Imagenes/costFunc1.jpeg> <./Imagenes/costFunc2.jpeg> <./Imagenes/costFun
+c3.jpeg> <./Imagenes/costFunc4.jpeg>]
+<./Imagenes/costFunc6.jpeg, id=188, 1740.5025pt x 963.6pt>
+File: ./Imagenes/costFunc6.jpeg Graphic file (type jpg)
+<use ./Imagenes/costFunc6.jpeg>
+Package pdftex.def Info: ./Imagenes/costFunc6.jpeg  used on input line 173.
+(pdftex.def)             Requested size: 472.03123pt x 261.32234pt.
+<./Imagenes/costFunc7.jpeg, id=189, 1485.55pt x 969.6225pt>
+File: ./Imagenes/costFunc7.jpeg Graphic file (type jpg)
+<use ./Imagenes/costFunc7.jpeg>
+Package pdftex.def Info: ./Imagenes/costFunc7.jpeg  used on input line 178.
+(pdftex.def)             Requested size: 377.62642pt x 246.47371pt.
+ [12 <./Imagenes/costFunc5.jpeg> <./Imagenes/costFunc6.jpeg>]
+<./Imagenes/testCostFunc1.jpeg, id=196, 1166.3575pt x 1080.035pt>
+File: ./Imagenes/testCostFunc1.jpeg Graphic file (type jpg)
+<use ./Imagenes/testCostFunc1.jpeg>
+Package pdftex.def Info: ./Imagenes/testCostFunc1.jpeg  used on input line 183.
+
+(pdftex.def)             Requested size: 377.62642pt x 349.67235pt.
+<./Imagenes/testCostFunc2.jpeg, id=197, 1989.4325pt x 1108.14pt>
+File: ./Imagenes/testCostFunc2.jpeg Graphic file (type jpg)
+<use ./Imagenes/testCostFunc2.jpeg>
+Package pdftex.def Info: ./Imagenes/testCostFunc2.jpeg  used on input line 188.
+
+(pdftex.def)             Requested size: 472.03123pt x 262.91544pt.
+ [13 <./Imagenes/costFunc7.jpeg> <./Imagenes/testCostFunc1.jpeg>] [14 <./Imagen
+es/testCostFunc2.jpeg>]
+<./Imagenes/simpleCostFunc1.jpeg, id=210, 1565.85pt x 807.015pt>
+File: ./Imagenes/simpleCostFunc1.jpeg Graphic file (type jpg)
+<use ./Imagenes/simpleCostFunc1.jpeg>
+Package pdftex.def Info: ./Imagenes/simpleCostFunc1.jpeg  used on input line 19
+6.
+(pdftex.def)             Requested size: 472.03123pt x 243.2762pt.
+<./Imagenes/simpleCostFunc2.jpeg, id=211, 1704.3675pt x 809.0225pt>
+File: ./Imagenes/simpleCostFunc2.jpeg Graphic file (type jpg)
+<use ./Imagenes/simpleCostFunc2.jpeg>
+Package pdftex.def Info: ./Imagenes/simpleCostFunc2.jpeg  used on input line 20
+1.
+(pdftex.def)             Requested size: 472.03123pt x 224.05582pt.
+<./Imagenes/simpleCostFunc3.jpeg, id=212, 1738.495pt x 835.12pt>
+File: ./Imagenes/simpleCostFunc3.jpeg Graphic file (type jpg)
+<use ./Imagenes/simpleCostFunc3.jpeg>
+Package pdftex.def Info: ./Imagenes/simpleCostFunc3.jpeg  used on input line 20
+6.
+(pdftex.def)             Requested size: 472.03123pt x 226.74695pt.
+ [15 <./Imagenes/simpleCostFunc1.jpeg> <./Imagenes/simpleCostFunc2.jpeg>]
+<./Imagenes/gradDes1.jpeg, id=219, 1569.865pt x 905.3825pt>
+File: ./Imagenes/gradDes1.jpeg Graphic file (type jpg)
+<use ./Imagenes/gradDes1.jpeg>
+Package pdftex.def Info: ./Imagenes/gradDes1.jpeg  used on input line 212.
+(pdftex.def)             Requested size: 472.03123pt x 272.2247pt.
+<./Imagenes/gradDes2.jpeg, id=220, 1387.1825pt x 708.6475pt>
+File: ./Imagenes/gradDes2.jpeg Graphic file (type jpg)
+<use ./Imagenes/gradDes2.jpeg>
+Package pdftex.def Info: ./Imagenes/gradDes2.jpeg  used on input line 217.
+(pdftex.def)             Requested size: 472.03123pt x 241.14241pt.
+ [16 <./Imagenes/simpleCostFunc3.jpeg> <./Imagenes/gradDes1.jpeg>]
+<./Imagenes/testCostFuncSimple1.jpeg, id=227, 2001.4775pt x 678.535pt>
+File: ./Imagenes/testCostFuncSimple1.jpeg Graphic file (type jpg)
+<use ./Imagenes/testCostFuncSimple1.jpeg>
+Package pdftex.def Info: ./Imagenes/testCostFuncSimple1.jpeg  used on input lin
+e 222.
+(pdftex.def)             Requested size: 472.03123pt x 160.02519pt.
+<./Imagenes/testCostFuncSimple2.jpeg, id=228, 1326.9575pt x 1045.9075pt>
+File: ./Imagenes/testCostFuncSimple2.jpeg Graphic file (type jpg)
+<use ./Imagenes/testCostFuncSimple2.jpeg>
+Package pdftex.def Info: ./Imagenes/testCostFuncSimple2.jpeg  used on input lin
+e 227.
+(pdftex.def)             Requested size: 472.03123pt x 372.05783pt.
+ [17 <./Imagenes/gradDes2.jpeg> <./Imagenes/testCostFuncSimple1.jpeg>] [18 <./I
+magenes/testCostFuncSimple2.jpeg>]
+<./Imagenes/advOpt1.jpeg, id=240, 1220.56pt x 517.935pt>
+File: ./Imagenes/advOpt1.jpeg Graphic file (type jpg)
+<use ./Imagenes/advOpt1.jpeg>
+Package pdftex.def Info: ./Imagenes/advOpt1.jpeg  used on input line 235.
+(pdftex.def)             Requested size: 472.03123pt x 200.30258pt.
+<./Imagenes/advOpt2.jpeg, id=241, 1330.9725pt x 676.5275pt>
+File: ./Imagenes/advOpt2.jpeg Graphic file (type jpg)
+<use ./Imagenes/advOpt2.jpeg>
+Package pdftex.def Info: ./Imagenes/advOpt2.jpeg  used on input line 240.
+(pdftex.def)             Requested size: 472.03123pt x 239.92635pt.
+ [19 <./Imagenes/advOpt1.jpeg> <./Imagenes/advOpt2.jpeg>]
+<./Imagenes/multiClass1.jpeg, id=249, 1539.7525pt x 738.76pt>
+File: ./Imagenes/multiClass1.jpeg Graphic file (type jpg)
+<use ./Imagenes/multiClass1.jpeg>
+Package pdftex.def Info: ./Imagenes/multiClass1.jpeg  used on input line 250.
+(pdftex.def)             Requested size: 472.03123pt x 226.4769pt.
+<./Imagenes/multiClass2.jpeg, id=250, 1373.13pt x 788.9475pt>
+File: ./Imagenes/multiClass2.jpeg Graphic file (type jpg)
+<use ./Imagenes/multiClass2.jpeg>
+Package pdftex.def Info: ./Imagenes/multiClass2.jpeg  used on input line 255.
+(pdftex.def)             Requested size: 401.22942pt x 230.52243pt.
+<./Imagenes/multiClass3.jpeg, id=251, 1218.5525pt x 226.8475pt>
+File: ./Imagenes/multiClass3.jpeg Graphic file (type jpg)
+<use ./Imagenes/multiClass3.jpeg>
+Package pdftex.def Info: ./Imagenes/multiClass3.jpeg  used on input line 260.
+(pdftex.def)             Requested size: 472.03123pt x 87.8748pt.
+<./Imagenes/testMulticlass.jpeg, id=252, 1973.3725pt x 580.1675pt>
+File: ./Imagenes/testMulticlass.jpeg Graphic file (type jpg)
+<use ./Imagenes/testMulticlass.jpeg>
+Package pdftex.def Info: ./Imagenes/testMulticlass.jpeg  used on input line 265
+.
+(pdftex.def)             Requested size: 472.03123pt x 138.77385pt.
+ [20 <./Imagenes/multiClass1.jpeg> <./Imagenes/multiClass2.jpeg> <./Imagenes/mu
+ltiClass3.jpeg>] [21 <./Imagenes/testMulticlass.jpeg>]
+<./Imagenes/testFLogicReg1.jpeg, id=265, 1238.6275pt x 481.8pt>
+File: ./Imagenes/testFLogicReg1.jpeg Graphic file (type jpg)
+<use ./Imagenes/testFLogicReg1.jpeg>
+Package pdftex.def Info: ./Imagenes/testFLogicReg1.jpeg  used on input line 273
+.
+(pdftex.def)             Requested size: 236.01561pt x 91.80025pt.
+<./Imagenes/testFLogicReg3.jpeg, id=266, 1266.7325pt x 664.4825pt>
+File: ./Imagenes/testFLogicReg3.jpeg Graphic file (type jpg)
+<use ./Imagenes/testFLogicReg3.jpeg>
+Package pdftex.def Info: ./Imagenes/testFLogicReg3.jpeg  used on input line 276
+.
+(pdftex.def)             Requested size: 236.01561pt x 123.7993pt.
+<./Imagenes/testFLogicReg2_1.jpeg, id=267, 1196.47pt x 1067.99pt>
+File: ./Imagenes/testFLogicReg2_1.jpeg Graphic file (type jpg)
+<use ./Imagenes/testFLogicReg2_1.jpeg>
+Package pdftex.def Info: ./Imagenes/testFLogicReg2_1.jpeg  used on input line 2
+82.
+(pdftex.def)             Requested size: 236.01561pt x 210.6609pt.
+<./Imagenes/testFLogicReg2_2.jpeg, id=268, 1192.455pt x 650.43pt>
+File: ./Imagenes/testFLogicReg2_2.jpeg Graphic file (type jpg)
+<use ./Imagenes/testFLogicReg2_2.jpeg>
+Package pdftex.def Info: ./Imagenes/testFLogicReg2_2.jpeg  used on input line 2
+85.
+(pdftex.def)             Requested size: 236.01561pt x 128.73392pt.
+<./Imagenes/testFLogicReg4.jpeg, id=269, 1290.8225pt x 702.625pt>
+File: ./Imagenes/testFLogicReg4.jpeg Graphic file (type jpg)
+<use ./Imagenes/testFLogicReg4.jpeg>
+Package pdftex.def Info: ./Imagenes/testFLogicReg4.jpeg  used on input line 291
+.
+(pdftex.def)             Requested size: 236.01561pt x 128.46118pt.
+<./Imagenes/testFLogicReg5.jpeg, id=270, 1200.485pt x 1061.9675pt>
+File: ./Imagenes/testFLogicReg5.jpeg Graphic file (type jpg)
+<use ./Imagenes/testFLogicReg5.jpeg>
+Package pdftex.def Info: ./Imagenes/testFLogicReg5.jpeg  used on input line 294
+.
+(pdftex.def)             Requested size: 236.01561pt x 208.77617pt.
+<./Imagenes/overfit1.jpeg, id=271, 1202.4925pt x 935.495pt>
+File: ./Imagenes/overfit1.jpeg Graphic file (type jpg)
+<use ./Imagenes/overfit1.jpeg>
+Package pdftex.def Info: ./Imagenes/overfit1.jpeg  used on input line 304.
+(pdftex.def)             Requested size: 472.03123pt x 367.22542pt.
+ [22 <./Imagenes/testFLogicReg1.jpeg> <./Imagenes/testFLogicReg3.jpeg> <./Image
+nes/testFLogicReg2_1.jpeg> <./Imagenes/testFLogicReg2_2.jpeg> <./Imagenes/testF
+LogicReg4.jpeg> <./Imagenes/testFLogicReg5.jpeg>]
+<./Imagenes/overfit2.jpeg, id=279, 1196.47pt x 377.41pt>
+File: ./Imagenes/overfit2.jpeg Graphic file (type jpg)
+<use ./Imagenes/overfit2.jpeg>
+Package pdftex.def Info: ./Imagenes/overfit2.jpeg  used on input line 309.
+(pdftex.def)             Requested size: 472.03123pt x 148.8939pt.
+<./Imagenes/overfit3.jpeg, id=280, 1027.84pt x 445.665pt>
+File: ./Imagenes/overfit3.jpeg Graphic file (type jpg)
+<use ./Imagenes/overfit3.jpeg>
+Package pdftex.def Info: ./Imagenes/overfit3.jpeg  used on input line 314.
+(pdftex.def)             Requested size: 377.62642pt x 163.73741pt.
+ [23 <./Imagenes/overfit1.jpeg> <./Imagenes/overfit2.jpeg>]
+<./Imagenes/overfit4.jpeg, id=287, 1891.065pt x 672.5125pt>
+File: ./Imagenes/overfit4.jpeg Graphic file (type jpg)
+<use ./Imagenes/overfit4.jpeg>
+Package pdftex.def Info: ./Imagenes/overfit4.jpeg  used on input line 319.
+(pdftex.def)             Requested size: 472.03123pt x 167.8609pt.
+<./Imagenes/overfit5.jpeg, id=288, 1935.23pt x 923.45pt>
+File: ./Imagenes/overfit5.jpeg Graphic file (type jpg)
+<use ./Imagenes/overfit5.jpeg>
+Package pdftex.def Info: ./Imagenes/overfit5.jpeg  used on input line 324.
+(pdftex.def)             Requested size: 472.03123pt x 225.23975pt.
+<./Imagenes/regulCostFunc1.jpeg, id=289, 1218.5525pt x 778.91pt>
+File: ./Imagenes/regulCostFunc1.jpeg Graphic file (type jpg)
+<use ./Imagenes/regulCostFunc1.jpeg>
+Package pdftex.def Info: ./Imagenes/regulCostFunc1.jpeg  used on input line 330
+.
+(pdftex.def)             Requested size: 472.03123pt x 301.72943pt.
+ [24 <./Imagenes/overfit3.jpeg> <./Imagenes/overfit4.jpeg> <./Imagenes/overfit5
+.jpeg>]
+<./Imagenes/regulCostFunc2.jpeg, id=297, 1168.365pt x 650.43pt>
+File: ./Imagenes/regulCostFunc2.jpeg Graphic file (type jpg)
+<use ./Imagenes/regulCostFunc2.jpeg>
+Package pdftex.def Info: ./Imagenes/regulCostFunc2.jpeg  used on input line 335
+.
+(pdftex.def)             Requested size: 472.03123pt x 262.77759pt.
+<./Imagenes/regulCostFunc3.jpeg, id=298, 1222.5675pt x 509.905pt>
+File: ./Imagenes/regulCostFunc3.jpeg Graphic file (type jpg)
+<use ./Imagenes/regulCostFunc3.jpeg>
+Package pdftex.def Info: ./Imagenes/regulCostFunc3.jpeg  used on input line 340
+.
+(pdftex.def)             Requested size: 424.82523pt x 177.17786pt.
+ [25 <./Imagenes/regulCostFunc1.jpeg> <./Imagenes/regulCostFunc2.jpeg>]
+<./Imagenes/regulCostFunc4.jpeg, id=306, 1824.8175pt x 1035.87pt>
+File: ./Imagenes/regulCostFunc4.jpeg Graphic file (type jpg)
+<use ./Imagenes/regulCostFunc4.jpeg>
+Package pdftex.def Info: ./Imagenes/regulCostFunc4.jpeg  used on input line 345
+.
+(pdftex.def)             Requested size: 349.3057pt x 198.2715pt.
+<./Imagenes/testRegul.jpeg, id=307, 1282.7925pt x 754.82pt>
+File: ./Imagenes/testRegul.jpeg Graphic file (type jpg)
+<use ./Imagenes/testRegul.jpeg>
+Package pdftex.def Info: ./Imagenes/testRegul.jpeg  used on input line 350.
+(pdftex.def)             Requested size: 377.62642pt x 222.19775pt.
+<./Imagenes/regulLinearReg1.jpeg, id=308, 1266.7325pt x 913.4125pt>
+File: ./Imagenes/regulLinearReg1.jpeg Graphic file (type jpg)
+<use ./Imagenes/regulLinearReg1.jpeg>
+Package pdftex.def Info: ./Imagenes/regulLinearReg1.jpeg  used on input line 35
+6.
+(pdftex.def)             Requested size: 472.03123pt x 340.36853pt.
+ [26 <./Imagenes/regulCostFunc3.jpeg> <./Imagenes/regulCostFunc4.jpeg> <./Image
+nes/testRegul.jpeg>]
+<./Imagenes/regulLinearReg2.jpeg, id=317, 1864.9675pt x 1055.945pt>
+File: ./Imagenes/regulLinearReg2.jpeg Graphic file (type jpg)
+<use ./Imagenes/regulLinearReg2.jpeg>
+Package pdftex.def Info: ./Imagenes/regulLinearReg2.jpeg  used on input line 36
+1.
+(pdftex.def)             Requested size: 424.82523pt x 240.52594pt.
+<./Imagenes/regulNormalEq1.jpeg, id=318, 1252.68pt x 919.435pt>
+File: ./Imagenes/regulNormalEq1.jpeg Graphic file (type jpg)
+<use ./Imagenes/regulNormalEq1.jpeg>
+Package pdftex.def Info: ./Imagenes/regulNormalEq1.jpeg  used on input line 366
+.
+(pdftex.def)             Requested size: 472.03123pt x 346.45677pt.
+ [27 <./Imagenes/regulLinearReg1.jpeg> <./Imagenes/regulLinearReg2.jpeg>]
+<./Imagenes/regulNormalEq2.jpeg, id=325, 1557.82pt x 1021.8175pt>
+File: ./Imagenes/regulNormalEq2.jpeg Graphic file (type jpg)
+<use ./Imagenes/regulNormalEq2.jpeg>
+Package pdftex.def Info: ./Imagenes/regulNormalEq2.jpeg  used on input line 371
+.
+(pdftex.def)             Requested size: 424.82523pt x 278.65413pt.
+<./Imagenes/testRegulLinear.jpeg, id=326, 1232.605pt x 825.0825pt>
+File: ./Imagenes/testRegulLinear.jpeg Graphic file (type jpg)
+<use ./Imagenes/testRegulLinear.jpeg>
+Package pdftex.def Info: ./Imagenes/testRegulLinear.jpeg  used on input line 37
+6.
+(pdftex.def)             Requested size: 424.82523pt x 284.36421pt.
+ [28 <./Imagenes/regulNormalEq1.jpeg> <./Imagenes/regulNormalEq2.jpeg>] [29 <./
+Imagenes/testRegulLinear.jpeg>]
+<./Imagenes/regulLogicReg1.jpeg, id=338, 1666.225pt x 136.51pt>
+File: ./Imagenes/regulLogicReg1.jpeg Graphic file (type jpg)
+<use ./Imagenes/regulLogicReg1.jpeg>
+Package pdftex.def Info: ./Imagenes/regulLogicReg1.jpeg  used on input line 383
+.
+(pdftex.def)             Requested size: 472.03123pt x 38.67245pt.
+<./Imagenes/regulLogicReg2.jpeg, id=339, 1870.99pt x 1015.795pt>
+File: ./Imagenes/regulLogicReg2.jpeg Graphic file (type jpg)
+<use ./Imagenes/regulLogicReg2.jpeg>
+Package pdftex.def Info: ./Imagenes/regulLogicReg2.jpeg  used on input line 388
+.
+(pdftex.def)             Requested size: 472.03123pt x 256.27309pt.
+<./Imagenes/regulLogicReg3.jpeg, id=340, 1244.65pt x 606.265pt>
+File: ./Imagenes/regulLogicReg3.jpeg Graphic file (type jpg)
+<use ./Imagenes/regulLogicReg3.jpeg>
+Package pdftex.def Info: ./Imagenes/regulLogicReg3.jpeg  used on input line 393
+.
+(pdftex.def)             Requested size: 472.03123pt x 229.92055pt.
+<./Imagenes/regulLogicReg4.jpeg, id=341, 1858.945pt x 893.3375pt>
+File: ./Imagenes/regulLogicReg4.jpeg Graphic file (type jpg)
+<use ./Imagenes/regulLogicReg4.jpeg>
+Package pdftex.def Info: ./Imagenes/regulLogicReg4.jpeg  used on input line 398
+.
+(pdftex.def)             Requested size: 472.03123pt x 226.83704pt.
+ [30 <./Imagenes/regulLogicReg1.jpeg> <./Imagenes/regulLogicReg2.jpeg> <./Image
+nes/regulLogicReg3.jpeg>]
+<./Imagenes/regulLogicReg5.jpeg, id=349, 1907.125pt x 1035.87pt>
+File: ./Imagenes/regulLogicReg5.jpeg Graphic file (type jpg)
+<use ./Imagenes/regulLogicReg5.jpeg>
+Package pdftex.def Info: ./Imagenes/regulLogicReg5.jpeg  used on input line 403
+.
+(pdftex.def)             Requested size: 472.03123pt x 256.39047pt.
+ [31 <./Imagenes/regulLogicReg4.jpeg> <./Imagenes/regulLogicReg5.jpeg>]
+<./Imagenes/testFRegul1.jpeg, id=357, 1286.8075pt x 768.8725pt>
+File: ./Imagenes/testFRegul1.jpeg Graphic file (type jpg)
+<use ./Imagenes/testFRegul1.jpeg>
+Package pdftex.def Info: ./Imagenes/testFRegul1.jpeg  used on input line 412.
+(pdftex.def)             Requested size: 236.01561pt x 141.01904pt.
+<./Imagenes/testFRegul2.jpeg, id=358, 1284.8pt x 792.9625pt>
+File: ./Imagenes/testFRegul2.jpeg Graphic file (type jpg)
+<use ./Imagenes/testFRegul2.jpeg>
+Package pdftex.def Info: ./Imagenes/testFRegul2.jpeg  used on input line 415.
+(pdftex.def)             Requested size: 236.01561pt x 145.6552pt.
+<./Imagenes/testFRegul3.jpeg, id=359, 1270.7475pt x 746.79pt>
+File: ./Imagenes/testFRegul3.jpeg Graphic file (type jpg)
+<use ./Imagenes/testFRegul3.jpeg>
+Package pdftex.def Info: ./Imagenes/testFRegul3.jpeg  used on input line 421.
+(pdftex.def)             Requested size: 236.01561pt x 138.70094pt.
+<./Imagenes/testFRegul4.jpeg, id=360, 1260.71pt x 648.4225pt>
+File: ./Imagenes/testFRegul4.jpeg Graphic file (type jpg)
+<use ./Imagenes/testFRegul4.jpeg>
+Package pdftex.def Info: ./Imagenes/testFRegul4.jpeg  used on input line 424.
+(pdftex.def)             Requested size: 236.01561pt x 121.38103pt.
+<./Imagenes/testFRegul5.jpeg, id=361, 1318.9275pt x 668.4975pt>
+File: ./Imagenes/testFRegul5.jpeg Graphic file (type jpg)
+<use ./Imagenes/testFRegul5.jpeg>
+Package pdftex.def Info: ./Imagenes/testFRegul5.jpeg  used on input line 430.
+(pdftex.def)             Requested size: 330.42041pt x 167.47078pt.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 434.
+ [32 <./Imagenes/testFRegul1.jpeg> <./Imagenes/testFRegul2.jpeg> <./Imagenes/te
+stFRegul3.jpeg> <./Imagenes/testFRegul4.jpeg> <./Imagenes/testFRegul5.jpeg>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 434.
+ (./week3.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 434.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 434.
+Package rerunfilecheck Info: File `week3.out' has not changed.
+(rerunfilecheck)             Checksum: 2E714FA2AF619F2FFB83F1F7E227DEAA;1375.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 434.
+ ) 
+Here is how much of TeX's memory you used:
+ 9763 strings out of 492649
+ 148624 string characters out of 6129621
+ 245152 words of memory out of 5000000
+ 13365 multiletter control sequences out of 15000+600000
+ 10654 words of font info for 39 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,8n,40p,270b,327s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on week3.pdf (32 pages, 11355315 bytes).
+PDF statistics:
+ 408 PDF objects out of 1000 (max. 8388607)
+ 300 compressed objects within 3 object streams
+ 115 named destinations out of 1000 (max. 500000)
+ 493 words of extra memory for PDF output out of 10000 (max. 10000000)
+

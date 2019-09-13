@@ -1,0 +1,7 @@
+\contentsline {section}{\numberline {1}Neural networks}{3}{section.1}
+\contentsline {subsection}{\numberline {1.1}Model representation I}{3}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Model representation II}{6}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Applications}{9}{subsection.1.3}
+\contentsline {subsubsection}{\numberline {1.3.1}Examples}{9}{subsubsection.1.3.1}
+\contentsline {subsubsection}{\numberline {1.3.2}Multiclass classification}{15}{subsubsection.1.3.2}
+\contentsline {subsection}{\numberline {1.4}Test}{16}{subsection.1.4}
